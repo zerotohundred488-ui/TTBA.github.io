@@ -1,0 +1,6 @@
+title: "TTBA Blog"
+description: "Number theory + Post-quantum cryptography study notes"
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
