@@ -1,6 +1,20 @@
 title: "TTBA Blog"
-description: "Number theory + Post-quantum cryptography study notes"
+description: "Modern Number Theory · Cryptography · AI study notes (KR/EN)"
 theme: minima
 
 markdown: kramdown
 highlighter: rouge
+
+# 추천 추가
+lang: en
+timezone: Asia/Seoul
+
+# URL 세팅 (GitHub Pages 프로젝트 페이지라면)
+url: "https://zerotohundred488-ui.github.io"
+baseurl: "/TTBA.github.io"
+
+# permalink 예쁘게 (선택)
+permalink: /:categories/:year/:month/:day/:title/
+
+# minima에서 보통 쓰는 것들 (선택)
+show_excerpts: true
